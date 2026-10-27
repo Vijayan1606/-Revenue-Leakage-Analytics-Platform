@@ -258,19 +258,3 @@ The platform architecture is designed to power the following analytics checks:
 
 ---
 
-## 🗺️ Roadmap
-
-- [x] Initial relational database schema (Accounts, Quotes, Orders, Shipments, Invoices, Payments, Disputes)
-- [x] Alembic migration pipeline setup
-- [x] FastAPI base application with Pydantic validation
-- [x] Docker & Docker Compose setup
-- [ ] Synthetic revenue leakage dataset generation script (anomalous scenario generator)
-- [ ] Automated reconciliation and leakage report endpoints
-- [ ] Next.js analytics dashboard frontend with real-time discrepancy charts
-- [ ] Automated email/webhook notifications for high-priority financial leaks
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
